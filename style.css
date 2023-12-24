@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2? family= Poppins:wght@300;500;600;700;800 & display=swap');
+*{ font-family: 'Poppins', sans-serif;
+ }
+ .navbar a {
+    font-weight: 600;
+    font-size: 18px;
+ }
+ .card {
+padding: 80px;
+ }
+ .bg-card{
+    background-image: linear-gradient(
+        rgba(31, 155, 155, 0)
+        rgba(31, 155, 155, 0)
+    );
+ }
+ .card{
+    padding: 80px 0;
+ }
+ .card img{
+    width: 200px;
+    height: 160px;
+ }
+ .card-header h5{
+    font-size: 40px;
+    text-transform: uppercase;
+    font-weight: 800;
+ }
+ .car img {
+    width: 300px;
+
+ }
+ 
